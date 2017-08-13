@@ -1,0 +1,16 @@
+{
+  "Services": [
+    {
+      "id": 1,
+      "name": "cars",
+      "port": 9001,
+      "data": { "vehicles": [ "Rav4", "4Runner", "Sequoia" ] }
+    },
+    {
+      "id": 2,
+      "name": "exterior",
+      "port": 9002,
+      "data": { "colors": [ "Red", "Green", "Blue" ] }
+    }
+  ]
+}

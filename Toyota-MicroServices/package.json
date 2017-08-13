@@ -1,0 +1,9 @@
+{
+  "name": "toyota-micro-services",
+  "version": "0.0.0",
+  "description": "Toyota-MicroServices",
+  "main": "server.js",
+  "author": {
+    "name": "andor"
+  }
+}
